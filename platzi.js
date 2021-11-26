@@ -44,25 +44,25 @@ function moverCerdo(e)
 
 var fondo =
 {
-	url: "tile.png",
+	url: "./imgs/tile.png",
 	carga: false
 }
 
 var vaca =
 {
-	url: "vaca.png",
+	url: "./imgs/vaca.png",
 	carga: false
 }
 
 var pollo =
 {
-	url: "pollo.png",
+	url: "./imgs/pollo.png",
 	carga: false
 }
 
 var cerdo =
 {
-	url: "cerdo.png",
+	url: "./imgs/cerdo.png",
 	carga: false
 }
 
